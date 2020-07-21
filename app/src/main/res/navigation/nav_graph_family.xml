@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_family"
+    app:startDestination="@id/familyListFragment">
+
+    <fragment
+        android:id="@+id/familyListFragment"
+        android:name="com.karoshi.patelfamily.feature.list.FamilyListFragment"
+        android:label="familyListFragment"
+        tools:layout="@layout/fragment_family_list">
+    </fragment>
+
+</navigation>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Karoshi Patel Family</string>
+
+    <string name="user_full_name">%1s %2s</string>
+    <string name="father_name">Son of %1s %2s</string>
+
+    <string name="search_hint">Search…</string>
+
+</resources>
